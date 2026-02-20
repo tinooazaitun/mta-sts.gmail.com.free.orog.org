@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: *.mx.cloudflare.net
+mx: smtp.google.com.free.orog.org
 max_age: 86400
